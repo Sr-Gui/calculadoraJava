@@ -13,7 +13,7 @@ O algoritmo de conversão infixToRPN foi baseado em [Outra aplicação: notaçã
 
 ## Desenvolvimento
 
-Este projeto foi desenvolvido como parte do trabalho da disciplina de Programação Orientada a Objetos em Java. 
+Este projeto foi desenvolvido para a disciplina de Programação Orientada a Objetos em Java. 
 
 - Desenvolvedor: Guilherma Souza Rocha
 - Professor: Jotair Elio Kwiatkowski Junior
